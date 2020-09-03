@@ -9,10 +9,10 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
 <ul>
   <li>⚽ Gosto bastante de <strong>jogar futebol ao vivo e em cores</strong>, um detalhe importante é que eu foco em me divertir e não ser o melhor 😂.</li>
   <li>🤖 Curto demais os <strong>processos de produção</strong> que as industrias elaboram, é incrível ver todo o sistema de <strong>automação</strong> evoluindo e <strong>robôs</strong> ficando cada vez melhores.</li>
-  <li>👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de <strong>back-end</strong></li>
-  <li>🤖</li>
-  <li>🤖</li>
-  <li>🤖</li>
+  <li>👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de <strong>back-end</strong>, estou aprendendo bastante sobre o <strong>NodeJs</strong> e utilizando bastante o <strong>Express</strong>. Futuramente focarei mais em aprender sobre <strong>arquitetura</strong>, tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou sempre em busca de entender mais estes conceitos e absorver novos.</li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>   
 
 
