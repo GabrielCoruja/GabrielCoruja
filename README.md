@@ -4,7 +4,7 @@ Eu sou o <strong>Gabriel Dalseco</strong>, apelidado de Coruja 🦉, sou formado
 
 Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer <strong>Happy Hour</strong>!🎉
 
-### Interesses pessoais 🤔
+### Algumas coisas que são indispensáveis na minha vida 🤔
 
 <ul>
   <li>⚽ Gosto bastante de <strong>jogar futebol ao vivo e em cores</strong>, um detalhe importante é que eu foco em me divertir e não em ser o melhor, porque se for para ser o melhor eu nem preciso mais jogar. 😂</li>
