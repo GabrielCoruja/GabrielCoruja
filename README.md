@@ -15,6 +15,13 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
   <li>🖥️ Uma linguagem <strong>Front-end</strong> que eu utilizo é <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Pesquiso e aplico elementos novos dentro desta biblioteca, tais como <strong>Hooks</strong> e <strong>NestJS</strong>, pois uma coisa que sempre dizem é <strong>"Conhecimento nunca é demais"</strong>. Agora, fazer um layout bonito usando o <strong>CSS</strong> não é minha especialidade, mas como eu disse, estou nesta tragetória justamente para <strong>aprender</strong>, ou seja, estou aceitando aulas de <strong>design.</strong> 😂</li>
 </ul>   
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact" />
+</a>
+
 
 <!--
 **GabrielCoruja/GabrielCoruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
