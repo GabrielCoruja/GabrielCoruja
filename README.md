@@ -7,7 +7,7 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
 ### Interesses pessoais 🤔
 
 <ul>
-  <li>⚽ Gosto bastante de <strong>jogar futebol ao vivo e em cores</strong>, um detalhe importante é que eu foco em me divertir e não em ser o melhor. 😂</li>
+  <li>⚽ Gosto bastante de <strong>jogar futebol ao vivo e em cores</strong>, um detalhe importante é que eu foco em me divertir e não em ser o melhor, porque se for para ser o melhor eu nem preciso mais jogar. 😂</li>
   <li>🤖 Curto demais os <strong>processos de produção</strong> que as industrias elaboram, é incrível ver todo o sistema de <strong>automação</strong> evoluindo e <strong>robôs</strong> ficando cada vez melhores.</li>
   <li>🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>correr</strong>. Quando acabar a pandemia eu volto a correr nas ruas, é algo que me deixa bem leve e tranquilo, se estiver alguém quiser companhia, <strong>pode me chamar.</strong></li>
   <li>🎮 Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de <strong>tiro (PC e console)</strong> e <strong>estrátegia (tabuleiro)</strong> são os que mais me atraem</li>
