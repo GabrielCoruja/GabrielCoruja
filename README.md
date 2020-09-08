@@ -1,6 +1,7 @@
 ### Bom dia, boa tarde e boa noite 👋
-
-Eu sou o <strong>Gabriel Dalseco</strong>, apelidado de Coruja 🦉, sou formado em engenharia mecânica, mas atualmente estou apaixonado pelo desenvolvimento de software e claro, estou   me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente 😅. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
+<div align="justify">
+  Eu sou o <strong>Gabriel Dalseco</strong>, apelidado de Coruja 🦉, sou formado em engenharia mecânica, mas atualmente estou apaixonado pelo desenvolvimento de software e claro, estou   me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente 😅. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
+ </div>
 
 Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer <strong>Happy Hour</strong>!🎉
 
