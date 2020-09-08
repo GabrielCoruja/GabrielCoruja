@@ -7,7 +7,7 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
 
 ### Algumas coisas que são indispensáveis na minha vida 🤔
 
-<ul align="left">
+<ul align="justify">
   <li>⚽ Gosto bastante de <strong>jogar futebol ao vivo e em cores</strong>, um detalhe importante é que eu foco em me divertir e não em ser o melhor, porque se for para ser o melhor eu nem preciso mais jogar. 😂</li>
   <li>🤖 Curto demais os <strong>processos de produção</strong> que as industrias elaboram, é incrível ver todo o sistema de <strong>automação</strong> evoluindo e <strong>robôs</strong> ficando cada vez melhores.</li>
   <li>🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>correr</strong>. Quando acabar a pandemia eu volto a correr nas ruas, é algo que me deixa bem leve e tranquilo, se estiver alguém quiser companhia, <strong>pode me chamar.</strong></li>
