@@ -15,10 +15,10 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
   <li>👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de <strong>back-end</strong>, estou aprendendo bastante sobre o <strong>NodeJS</strong> e utilizando bastante o <strong>Express</strong>. Futuramente focarei mais em aprender sobre <strong>arquitetura</strong>, tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou sempre em busca de entender mais estes conceitos e absorver novos.</li>
   <li>🖥️ Olhando para o <strong>Front-end</strong> eu curto utilizar <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Pesquiso e aplico elementos novos dentro desta biblioteca, tais como <strong>Hooks</strong> e <strong>NestJS</strong>, pois uma coisa que sempre dizem é <strong>"Conhecimento nunca é demais"</strong>. Agora, fazer um layout bonito usando o <strong>CSS</strong> não é minha especialidade, mas como eu disse, estou nesta tragetória justamente para <strong>aprender</strong>, ou seja, estou aceitando aulas de <strong>design.</strong> 😂</li>
 </ul>   
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_parent">
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=chartreuse-dark" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_parent">
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact" />
   </a>
 
