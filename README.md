@@ -35,15 +35,34 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
 </div>
 
 ## Minhas Redes Sociais
+<div>
+  <a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="./images/gmail.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabrieldalseco/" target="_blank">
+    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.facebook.com/gabriel.dalseco.1/" target="_blank">
+    <img width="64px" alt="" src="./images/facebook.png" />
+  </a>
+</div>
 
-
+## GitHub Stats
+<table>
+<tr><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=vue" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact" />
+
+</td><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
   </a>
+
+</td></tr>
+</table>
 
 
 <!--
