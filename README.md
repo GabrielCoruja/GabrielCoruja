@@ -33,6 +33,8 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
 </div>
 
 ## Minhas Redes Sociais
