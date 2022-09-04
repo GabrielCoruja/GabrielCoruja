@@ -8,12 +8,12 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 
 <ul align="justify">
-  <li>⚽ Sou fã de <strong>jogar futebol ao vivo e em cores</strong>, um detalhe importante é que eu foco em me divertir e não em ser o melhor, porque se for para ser o melhor eu nem preciso mais jogar. 😂</li>
+  <li>⚽ Sou fã de <strong>jogar futebol</strong>, um detalhe importante é que eu foco em me divertir e não em ser o melhor, porque se for para ser o melhor eu nem preciso mais jogar. 😂</li>
   <li>🤖 Curto <strong>processos de produção</strong> que as industrias elaboram, é incrível ver todo o sistema de <strong>automação</strong> evoluindo e <strong>robôs</strong> ficando cada vez melhores.</li>
   <li>🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>correr</strong>. Caso você também tenha esse Hobbie e queira companhia, <strong>pode me chamar.</strong></li>
   <li>🎮 Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de <strong>tiro (PC e console)</strong> e <strong>estrátegia (tabuleiro)</strong> são os que mais me atraem.</li>
-  <li>👨🏻‍💻 Atualmente busco novas fontes de conhecimento, estou focado em aprender mais a respeito de <strong>back-end</strong>. No início da minha trajetória em back, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou sempre em busca de entender mais estes conceitos e absorver novos.</li>
-  <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Pesquiso e aplico elementos novos dentro desta biblioteca, tais como <strong>Hooks</strong>, pois uma coisa que sempre dizem é <strong>"Conhecimento nunca é demais"</strong>.</li>
+  <li>👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de <strong>back-end</strong>. No início da minha trajetória em back, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
+  <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Pesquiso e aplico elementos novos dentro desta biblioteca, tal como <strong>Hooks</strong>.</li>
 </ul>
 
 ## Tecnologias e Ferramentas
