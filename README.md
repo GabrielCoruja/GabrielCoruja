@@ -1,6 +1,7 @@
 ## Bom dia, boa tarde e boa noite 👋
+
 <div align="justify">
-  Sou o Coruja 🦉, formei em engenharia mecânica, mas atualmente estou apaixonado pelo desenvolvimento de software. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz "estressar" e virar as noites de uma maneira diferente 😅. Entretanto, o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
+  Sou o Coruja 🦉, formado em Engenharia Mecância, sou Instrutor de Tecnologia na Trybe. Apaixonado pelo desenvolvimento de software, me capacito cada dia mais a fim de transformar a vida das pessoas por meio da tecnologia. Se me perguntarem o motivo da minha mudança de área, provavelmente direi que a programação me fez virar as noites de uma maneira diferente.
  </div>
 
 Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer <strong>Happy Hour</strong>!🎉
