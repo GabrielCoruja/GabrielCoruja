@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://gabrielcoruja.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/gabrieldalseco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gabridal96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <img src="https://img.shields.io/badge/Belo_Horizonte,_MG-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=70a5fd" alt="Belo Horizonte, MG" />
@@ -98,5 +99,7 @@ Vim da **Engenharia Mecânica** e migrei para tecnologia em 2019. Passei mais de
 ⚽ Futebol com os amigos · 🏃 Corrida · 🎮 Games de tiro e de estratégia · 🤖 Automação industrial e robótica
 
 Quer conversar sobre tecnologia, trocar experiências ou marcar um café? **[Me chama no LinkedIn!](https://www.linkedin.com/in/gabrieldalseco/)** ☕
+
+🌐 Conheça meu portfólio, com os projetos e meus primeiros passos na programação: **[gabrielcoruja.github.io](https://gabrielcoruja.github.io)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" alt="" />
