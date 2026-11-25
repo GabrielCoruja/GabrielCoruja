@@ -5,7 +5,7 @@ on:
     - cron: "0 6 * * *" # todo dia às 03:00 (horário de Brasília)
   workflow_dispatch:
   push:
-    branches: [master]
+    branches: [main]
 
 permissions:
   contents: write
